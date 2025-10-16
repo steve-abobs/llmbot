@@ -1,0 +1,108 @@
+{
+  "864334784": [
+    {
+      "role": "user",
+      "text": "hello"
+    },
+    {
+      "role": "assistant",
+      "text": "LLM service unavailable."
+    },
+    {
+      "role": "user",
+      "text": "hi"
+    },
+    {
+      "role": "assistant",
+      "text": "LLM service unavailable."
+    },
+    {
+      "role": "user",
+      "text": "hello"
+    },
+    {
+      "role": "assistant",
+      "text": "LLM service unavailable."
+    },
+    {
+      "role": "user",
+      "text": "погода в москве"
+    },
+    {
+      "role": "assistant",
+      "text": "LLM service unavailable."
+    },
+    {
+      "role": "user",
+      "text": "hello"
+    },
+    {
+      "role": "assistant",
+      "text": "LLM service unavailable."
+    },
+    {
+      "role": "user",
+      "text": "hello"
+    },
+    {
+      "role": "assistant",
+      "text": "LLM service unavailable."
+    },
+    {
+      "role": "user",
+      "text": "hi"
+    },
+    {
+      "role": "assistant",
+      "text": "LLM service unavailable."
+    },
+    {
+      "role": "user",
+      "text": "hello"
+    },
+    {
+      "role": "assistant",
+      "text": "LLM service unavailable."
+    },
+    {
+      "role": "user",
+      "text": "lo"
+    },
+    {
+      "role": "assistant",
+      "text": "LLM service unavailable."
+    },
+    {
+      "role": "user",
+      "text": "hello"
+    },
+    {
+      "role": "assistant",
+      "text": "I'm here to help with anything!"
+    },
+    {
+      "role": "user",
+      "text": "weather in Moscow"
+    },
+    {
+      "role": "assistant",
+      "text": "I'm sorry, but I can't access the weather information. The OpenWeather API key is not configured, so I can't provide weather updates. Could you please try using a different service or provide more details if you need assistance with something else?"
+    },
+    {
+      "role": "user",
+      "text": "my homework"
+    },
+    {
+      "role": "assistant",
+      "text": "I'm sorry, but I can't access the weather information. The OpenWeather API key is not configured, so I can't provide updates. Could you try using a different service or let me know if you need assistance with something else?"
+    },
+    {
+      "role": "user",
+      "text": "do i have lessons tomorrow?"
+    },
+    {
+      "role": "assistant",
+      "text": "I'm sorry, but I can't access homework information. The OpenWeather API key is not configured, so I can't provide updates. Could you try using a different service or let me know if you need assistance with something else?"
+    }
+  ]
+}
